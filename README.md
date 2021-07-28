@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hanif Abyan Ayyasyi
-- 👀 I’m interested in Game & App Development
+- 👀 I’m interested in Android and Web Development
 - 🌱 I’m currently learning for React Native
 - 📫 I'm currently study in Telkom University
 
